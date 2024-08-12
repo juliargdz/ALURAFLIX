@@ -1,5 +1,18 @@
 body {
+
    color: green;
    background: lightgreen;
+}
 
+header {
+   border-bottom: solid 2px rgb(33, 182, 68);
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(33, 182, 68);
+}
+
+section {
+   background: rgb(33, 182, 68);
+   padding-bottom: 5px;
+   padding-top: 5px;
 }
