@@ -1,18 +1,28 @@
 body {
 
-   color: green;
-   background: lightgreen;
-}
+    color: green;
+    background: lightgreen;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+ }
+ 
+ header {
+    border-bottom: solid 2px rgb(33, 182, 68);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(33, 182, 68);
+ }
+ 
+ section {
+    background: rgb(92 223 123);
+    padding-bottom: 5px;
+    padding-top: 5px;
+ }
 
-header {
-   border-bottom: solid 2px rgb(33, 182, 68);
-   padding: 20px;
-   font-size: 32px;
-   color: rgb(33, 182, 68);
-}
+ h1 {
+    font-size: 40px;
+  }
 
-section {
-   background: rgb(33, 182, 68);
-   padding-bottom: 5px;
-   padding-top: 5px;
-}
+  p {
+    font-size: 20px;
+  }
